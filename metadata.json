@@ -1,0 +1,9 @@
+{
+  "name": "Lumina Growth",
+  "description": "A Montessori-inspired mindfulness and growth tracking app for children and parents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
