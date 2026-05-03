@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Lumina Growth",
-    "slug": "workspace",
+    "slug": "mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,21 +9,16 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
-      "image": "./icon.png",
+      "image": "./assets/images/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#faf8f5"
     },
     "ios": {
       "supportsTablet": false
     },
-    "android": {
-      "package": "com.parthshah2111work.LuminaGrowth",
-      "adaptiveIcon": {
-        "foregroundImage": "./icon.png",
-        "backgroundColor": "#ffffff"}
-    },
+    "android": {},
     "web": {
-      "favicon": "./icon.png"
+      "favicon": "./assets/images/icon.png"
     },
     "extra": {
       "eas": {

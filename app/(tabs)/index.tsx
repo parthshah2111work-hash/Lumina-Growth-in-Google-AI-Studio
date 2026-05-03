@@ -12,8 +12,8 @@ import {
 } from "react-native";
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
-import { ActivityCard } from "@/ActivityCard";
-import { StreakCalendar } from "@/StreakCalendar";
+import { ActivityCard } from "@/components/ActivityCard";
+import { StreakCalendar } from "@/components/StreakCalendar";
 import { DAILY_RHYTHM, Pillar, PHASE_INFO, getPhaseForAge, PILLAR_LABELS } from "@/constants/data";
 import { useApp } from "@/context/AppContext";
 import { useColors } from "@/hooks/useColors";
