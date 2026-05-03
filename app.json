@@ -20,7 +20,8 @@
       "package": "com.parthshah2111work.LuminaGrowth",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"},
+        "backgroundColor": "#ffffff"}
+    },
     "web": {
       "favicon": "./assets/images/icon.png"
     },
