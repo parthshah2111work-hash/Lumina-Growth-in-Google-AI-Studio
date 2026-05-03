@@ -17,7 +17,7 @@
       "supportsTablet": false
     },
     "android": {
-      "package": "com.parthshah2111work.Lumina Growth",
+      "package": "com.parthshah2111work.LuminaGrowth",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"},
